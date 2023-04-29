@@ -5,7 +5,7 @@
 #include <iostream>
 #include <string>
 
-using namespace std; 
+using namespace std;
 
 char character(char start, int offset);
 
